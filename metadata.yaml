@@ -1,11 +1,16 @@
 _repo: William-the-Conqueror-And-the-Rule-of-the-Normans_59444
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59444-h/images/cover.jpg
 creator:
   author:
     agent_name: Stenton, F. M. (Frank Merry)
     gutenberg_agent_id: '50464'
     url: http://www.gutenberg.org/2009/agents/50464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59444#William-the-Conqueror-And-the-Rule-of-the-Normans
 gutenberg_issued: '2019-05-08'
 gutenberg_type: Text
 identifiers:
